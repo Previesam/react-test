@@ -74,8 +74,8 @@ h1 {
 }
 
 .form-submit-btn {
-  min-width: 221px;
-  margin-bottom: 2rem;
+  min-width: 272px;
+  margin-bottom: 3rem;
 }
 
 @media (min-width: 650px) {
